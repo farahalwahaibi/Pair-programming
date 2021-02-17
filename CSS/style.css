@@ -1,0 +1,25 @@
+body {
+    background-color:white;
+}
+body header h1 {
+    text-align: center;
+    color: rgb(87, 183, 228);
+    background-color: black;
+}
+body header p {
+    text-align: center;
+    color: black;
+}
+
+
+header ul li {
+    color: black;
+    background-color: rgb(97, 155, 182);
+ 
+}
+
+body ol li {
+    color: black;
+    background-color:rgb(97, 155, 182);
+   
+}
